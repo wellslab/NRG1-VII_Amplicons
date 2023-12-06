@@ -1,0 +1,8 @@
+TXNAME	GENEID	NRG1_BC91_1000tpm_95_0.001_SJ90_newscript_filtered_high_JAQ_reads
+BambuTx1	BambuGene1	27
+BambuTx2	BambuGene1	2320
+BambuTx3	BambuGene1	0
+BambuTx4	BambuGene1	41.99992
+BambuTx5	BambuGene1	0.00065
+BambuTx6	BambuGene1	31
+BambuTx7	BambuGene1	60

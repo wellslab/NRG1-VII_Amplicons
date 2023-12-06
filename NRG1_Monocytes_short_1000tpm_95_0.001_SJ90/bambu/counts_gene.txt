@@ -1,0 +1,2 @@
+GENEID	NRG1_BC91_1000tpm_95_0.001_SJ90_newscript_filtered_high_JAQ_reads
+BambuGene1	17426
