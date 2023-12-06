@@ -1,1 +1,0 @@
-TXNAME	GENEID	NDR	novelGene	novelTranscript	txClassDescription	readCount	relReadCount	relSubsetCount	txid	eqClassById
