@@ -1,0 +1,29 @@
+Mon 04 Dec 2023 11:21:31 AEDT
+
+Filters applied:
+	Downsampling: FALSE
+	Downsampled to number of reads: 10000
+	Primer site filter: TRUE
+	Extract high accuracy reads: TRUE
+	Accuracy minimum: 0.95
+	Extract high quality splice junctions: TRUE
+	Splice junction accuracy minimum: 0.9
+	TPM minimum: 1000
+	Samples/barcodes required to meet TPM minimum: 1
+	Bambu novel discovery rate (NDR): 1
+	Bambu minimum read fraction by gene: 0.001
+
+Number of input samples/barcodes: 1
+Total number of reads in samples/barcodes: 57150
+
+Total number of reads in samples/barcodes post-downsampling: 
+Number of reads mapped to genome: 52837
+Number of reads mapped to genome and overlap forward and reverse primers: 46514
+Number of high accuracy reads used to identify isoforms: 26372
+Number of reads with accurate SJs used to identify isoforms: 12535
+
+Known isoforms identified: 0
+Novel isoforms identified: 7
+
+Number of reads mapped to known/novel isoforms: 44270
+
