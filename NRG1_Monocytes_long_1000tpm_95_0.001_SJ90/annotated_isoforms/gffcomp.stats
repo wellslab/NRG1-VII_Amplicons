@@ -1,0 +1,30 @@
+# gffcompare v0.12.6 | Command line was:
+#gffcompare -r NRG1_BC87_1000tpm_95_0.001_SJ90_newscript/temp_files/filt_chr.gtf -o NRG1_BC87_1000tpm_95_0.001_SJ90_newscript/annotated_isoforms/gffcomp NRG1_BC87_1000tpm_95_0.001_SJ90_newscript/NRG1_BC87_1000tpm_95_0.001_SJ90_newscript_isoforms.gtf
+#
+
+#= Summary for dataset: NRG1_BC87_1000tpm_95_0.001_SJ90_newscript/NRG1_BC87_1000tpm_95_0.001_SJ90_newscript_isoforms.gtf 
+#     Query mRNAs :       7 in       1 loci  (7 multi-exon transcripts)
+#            (1 multi-transcript loci, ~7.0 transcripts per locus)
+# Reference mRNAs :      37 in       1 loci  (37 multi-exon)
+# Super-loci w/ reference transcripts:        1
+#-----------------| Sensitivity | Precision  |
+        Base level:     8.0     |    93.9    |
+        Exon level:    12.5     |    56.2    |
+      Intron level:    22.2     |    53.3    |
+Intron chain level:     0.0     |     0.0    |
+  Transcript level:     0.0     |     0.0    |
+       Locus level:     0.0     |     0.0    |
+
+     Matching intron chains:       0
+       Matching transcripts:       0
+              Matching loci:       0
+
+          Missed exons:      48/80	( 60.0%)
+           Novel exons:       1/16	(  6.2%)
+        Missed introns:      11/36	( 30.6%)
+         Novel introns:       0/15	(  0.0%)
+           Missed loci:       0/1	(  0.0%)
+            Novel loci:       0/1	(  0.0%)
+
+ Total union super-loci across all input datasets: 1 
+7 out of 7 consensus transcripts written in NRG1_BC87_1000tpm_95_0.001_SJ90_newscript/annotated_isoforms/gffcomp.annotated.gtf (0 discarded as redundant)
