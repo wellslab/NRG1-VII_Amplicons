@@ -1,0 +1,6 @@
+TXNAME	GENEID	NDR	novelGene	novelTranscript	txClassDescription	readCount	relReadCount	relSubsetCount	txid	eqClassById
+BambuTx1	BambuGene1	0.925290815532207	TRUE	TRUE	newGene-spliced	24	0.00137520055008022	1	1	1
+BambuTx2	BambuGene1	0.524188995361328	TRUE	TRUE	newGene-spliced	2536	0.145312858125143	1	2	2
+BambuTx3	BambuGene1	0.918488845229149	TRUE	TRUE	newGene-spliced	25	0.00143250057300023	1	3	3
+BambuTx4	BambuGene1	0.423865735530853	TRUE	TRUE	newGene-spliced	14799	0.847983039193216	1	4	4
+BambuTx5	BambuGene1	0.793358489871025	TRUE	TRUE	newGene-spliced	68	0.00389640155856062	1	5	5
